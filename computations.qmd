@@ -8,7 +8,7 @@ fig-height: 3.5
 fig-width: 6
 ---
 
-View this project on my Github Repoistory : https://github.com/LeoFlesh/GSB_544_LeoFlesh
+View this project on my Github Repoistory : <https://github.com/LeoFlesh/GSB_544_LeoFlesh>
 
 
 This dataset contains a subset of the fuel economy data from the EPA.
